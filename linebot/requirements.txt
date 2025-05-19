@@ -1,0 +1,9 @@
+line-bot-sdk
+flask
+requests
+beautifulsoup4
+pandas
+matplotlib
+selenium
+webdriver-manager
+openai
